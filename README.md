@@ -1,6 +1,6 @@
 :sparkles: Hi, I'm Rubis, a Professionnal Web Developper.
 
-:sparkles: I have 17 yo and i'm a Girl
+:sparkles: I have 18 yo and i'm a Girl
 
 :sparkles: I love Music, Video Games and Dev.
 
