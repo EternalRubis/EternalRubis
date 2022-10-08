@@ -27,3 +27,9 @@ You can Contact me :
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/EternalRubis) [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Eternal_Rubis)
 
 <a href="your-own-link-from-the-website" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+---
+<p align="center"> © 2022 Rubis, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center">
+http://breizh-ardente.fr
+</p>
