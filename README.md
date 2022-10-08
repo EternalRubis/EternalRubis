@@ -22,8 +22,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=EternalRubis&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EternalRubis&layout=compact&theme=cobalt&hide_border=true" />
-
 You can Contact me : 
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/EternalRubis) [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Eternal_Rubis)
